@@ -1,0 +1,78 @@
+<mxfile host="65bd71144e">
+    <diagram id="Qprv42nqRKPb3PtPmdJ8" name="Page-1">
+        <mxGraphModel dx="1045" dy="370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="kzdFMzQcDVH2KB0mSfo7-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Quiz App HLD" vertex="1">
+                    <mxGeometry height="20" width="105" x="365" as="geometry"/>
+                </mxCell>
+                <mxCell id="kzdFMzQcDVH2KB0mSfo7-5" edge="1" parent="1" source="kzdFMzQcDVH2KB0mSfo7-3" style="edgeStyle=none;html=1;" target="kzdFMzQcDVH2KB0mSfo7-4" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="kzdFMzQcDVH2KB0mSfo7-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Root component&lt;br&gt;(Parent)" vertex="1">
+                    <mxGeometry height="60" width="120" x="365" y="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="kzdFMzQcDVH2KB0mSfo7-12" edge="1" parent="1" source="kzdFMzQcDVH2KB0mSfo7-4" style="edgeStyle=none;html=1;">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="425" y="350" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kzdFMzQcDVH2KB0mSfo7-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Question and options" vertex="1">
+                    <mxGeometry height="60" width="120" x="365" y="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="kzdFMzQcDVH2KB0mSfo7-8" edge="1" parent="1" source="kzdFMzQcDVH2KB0mSfo7-7" style="edgeStyle=none;html=1;" target="kzdFMzQcDVH2KB0mSfo7-3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="kzdFMzQcDVH2KB0mSfo7-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Mock Data" vertex="1">
+                    <mxGeometry height="60" width="140" x="600" y="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="kzdFMzQcDVH2KB0mSfo7-23" edge="1" parent="1" source="kzdFMzQcDVH2KB0mSfo7-11" style="edgeStyle=none;html=1;" target="kzdFMzQcDVH2KB0mSfo7-22">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="kzdFMzQcDVH2KB0mSfo7-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Next button" vertex="1">
+                    <mxGeometry height="80" width="120" x="589.9999999999998" y="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="kzdFMzQcDVH2KB0mSfo7-21" edge="1" parent="1" source="kzdFMzQcDVH2KB0mSfo7-13" style="edgeStyle=none;html=1;" target="kzdFMzQcDVH2KB0mSfo7-20" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="kzdFMzQcDVH2KB0mSfo7-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Feed Back component" vertex="1">
+                    <mxGeometry height="60" width="120" x="365" y="440" as="geometry"/>
+                </mxCell>
+                <mxCell id="kzdFMzQcDVH2KB0mSfo7-16" edge="1" parent="1" source="kzdFMzQcDVH2KB0mSfo7-15" style="edgeStyle=none;html=1;">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="870" y="220" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kzdFMzQcDVH2KB0mSfo7-25" edge="1" parent="1" source="kzdFMzQcDVH2KB0mSfo7-15" style="edgeStyle=none;html=1;">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="490" y="260" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kzdFMzQcDVH2KB0mSfo7-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Options component" vertex="1">
+                    <mxGeometry height="80" width="105" x="635" y="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="kzdFMzQcDVH2KB0mSfo7-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Option(Button)" vertex="1">
+                    <mxGeometry height="60" width="120" x="870" y="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="kzdFMzQcDVH2KB0mSfo7-24" edge="1" parent="1" source="kzdFMzQcDVH2KB0mSfo7-19" style="edgeStyle=none;html=1;">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="360" y="280" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="kzdFMzQcDVH2KB0mSfo7-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Previous button" vertex="1">
+                    <mxGeometry height="80" width="120" x="130" y="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="kzdFMzQcDVH2KB0mSfo7-26" edge="1" parent="1" source="kzdFMzQcDVH2KB0mSfo7-20" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="kzdFMzQcDVH2KB0mSfo7-13">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="kzdFMzQcDVH2KB0mSfo7-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Submit Quizz" vertex="1">
+                    <mxGeometry height="60" width="120" x="365" y="350" as="geometry"/>
+                </mxCell>
+                <mxCell id="kzdFMzQcDVH2KB0mSfo7-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Question card" vertex="1">
+                    <mxGeometry height="60" width="120" x="365" y="240" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

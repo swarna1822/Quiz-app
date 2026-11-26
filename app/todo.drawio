@@ -1,0 +1,75 @@
+<mxfile host="65bd71144e">
+    <diagram id="m_ehHD2n6o67WCekoPcI" name="Page-1">
+        <mxGraphModel dx="1084" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4PvTcAauSfSGprFMwvOD-5" edge="1" parent="1" source="4PvTcAauSfSGprFMwvOD-1" style="edgeStyle=none;html=1;">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="220" y="130" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4PvTcAauSfSGprFMwvOD-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Root Component" vertex="1">
+                    <mxGeometry height="60" width="120" x="160" y="25.87" as="geometry"/>
+                </mxCell>
+                <mxCell id="4PvTcAauSfSGprFMwvOD-2" parent="1" style="shape=stencil(fZbdcgIhDIWfZm8zQAg/17Z9j85U606tdqz9e/tmZ0c0uJ47xP0I5JwEBl59bp8/1kNwn6fj4W39M76ctgM/DCGM++36OJ50NPDjwKvN4bh+PR6+9i/z74/n6ctp9H74nlb4nbmSKZeJCu5vngmZ6jzzNAO7cX8FVKEsBuBKrgKg9oAE8gkCbLeUhEoEQKSUDZDLeWYRKIl8MEDRmHwfyBrBG6Amyu4+kDxxMoB3jhwgYu7TVAsVkFcWCs4CTBEoF4RctKeOxHIf8IXYpikHikAIf+MNUW94AGSSaoAoFIE3AlOyeWU+p2E5S9yfQZcQILVuQOwZdJNoS9Ls3wA5u2XZTIHECqeJ9kDpSaauRiNVcAY1QhdBzeLBli5WazpkSsBLV25uRaqWRyFawTQzRRIQYirJzq5atkBqLfouwqUxLBepthWb10vrWZY6UOAeyKCCtDV625mm9gmUC4Wc3VLJMMIE1BsA2FW9JraVlQB7n3c9oMKhCLEvIM1zBPZ25/umNQ1tVEC2G+fFCC8g398O2hNQuQlVu752DBfA+q0ptnqO5JFmeuIuo9DY7KjY71UxdJV4EntifPWorW++R/dC4t7V3DlIB5cHx2bc7eb3yvX//QNFp+bHDT/+Aw==);lineShape=1;strokeColor=default;" value="" vertex="1">
+                    <mxGeometry height="4.665236216357528" width="4.672539772115329" x="78.20127383075703" y="53.54198421144889" as="geometry"/>
+                </mxCell>
+                <mxCell id="4PvTcAauSfSGprFMwvOD-13" edge="1" parent="1" source="4PvTcAauSfSGprFMwvOD-6" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="160" y="340" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4PvTcAauSfSGprFMwvOD-15" edge="1" parent="1" source="4PvTcAauSfSGprFMwvOD-6" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="4PvTcAauSfSGprFMwvOD-16">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="370" y="370" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4PvTcAauSfSGprFMwvOD-17" edge="1" parent="1" source="4PvTcAauSfSGprFMwvOD-6" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="4PvTcAauSfSGprFMwvOD-18">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="70.00000000000011" y="290" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4PvTcAauSfSGprFMwvOD-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="TodoList component" vertex="1">
+                    <mxGeometry height="60" width="120" x="160" y="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="4PvTcAauSfSGprFMwvOD-12" edge="1" parent="1" source="4PvTcAauSfSGprFMwvOD-7" style="edgeStyle=none;html=1;" target="4PvTcAauSfSGprFMwvOD-10" value="">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="300" y="170"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4PvTcAauSfSGprFMwvOD-7" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="Add" vertex="1">
+                    <mxGeometry height="60" width="120" x="340" y="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="4PvTcAauSfSGprFMwvOD-11" edge="1" parent="1" source="4PvTcAauSfSGprFMwvOD-10" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="4PvTcAauSfSGprFMwvOD-6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4PvTcAauSfSGprFMwvOD-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Todo Input Box" vertex="1">
+                    <mxGeometry height="60" width="120" x="160" y="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="4PvTcAauSfSGprFMwvOD-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Edit Todo" vertex="1">
+                    <mxGeometry height="60" width="120" x="78.19999999999999" y="340" as="geometry"/>
+                </mxCell>
+                <mxCell id="4PvTcAauSfSGprFMwvOD-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Delete todo" vertex="1">
+                    <mxGeometry height="60" width="120" x="310" y="340" as="geometry"/>
+                </mxCell>
+                <mxCell id="4PvTcAauSfSGprFMwvOD-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Mark as complete" vertex="1">
+                    <mxGeometry height="60" width="120" x="10.000000000000114" y="260" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="U7beBxke3PGbqfTl2ZRL" name="Page-2">
+        <mxGraphModel dx="661" dy="255" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="orSALoI_wk9dYdzdjXLT-0"/>
+                <mxCell id="orSALoI_wk9dYdzdjXLT-1" parent="orSALoI_wk9dYdzdjXLT-0"/>
+                <mxCell id="DcpEdZbw7uodfMlVU6px-0" parent="orSALoI_wk9dYdzdjXLT-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+                    <mxGeometry height="60" width="120" x="280" y="110" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
